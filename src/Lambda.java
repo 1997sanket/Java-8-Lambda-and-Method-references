@@ -1,5 +1,5 @@
 //Using Lambda to make it even more concise.
-//Representation: Runnable runnable = ()->{ .... }; 
+//Representation: Runnable runnable = ()-> {....}
 
 public class Lambda {
     public static void main(String[] args) {
