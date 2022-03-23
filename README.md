@@ -1,18 +1,9 @@
 ## Getting Started
+1. I want to thank my CDAC Java professor. GOD OF JAVA, Mr. Nitin Vijaykar.
+   His in-depth teaching got me really interested in Java, and is the sole reason why I am always trying to understand all of its mysteries.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+2. Thank you Nitin Sir. 
 
-## Folder Structure
+3. Forever a student of Java, just like you :)
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. I would also like to thank my other Java teachers such as Kaushik from Java Brains, Durga Sir on Youtube.
